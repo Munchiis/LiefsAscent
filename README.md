@@ -13,7 +13,7 @@ Lief's Ascent is a game made in C# using Unity.
 * [Itch.io](https://indigameworks.itch.io/liefs-ascent)
 ## Authors
 * **Alexis Villarreal** - [alexisveryreal](https://github.com/alexisveryreal)
-* **Juan Echevarria** - 
+* **Juan Echevarria** - [munchiis](https://github.com/Munchiis)
 * **Janelle Domantay** -
 * **Louie Angelo F. Cano** - 
 * **Levi Yarmak** -
